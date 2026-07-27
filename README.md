@@ -69,8 +69,9 @@
 
 I like turning my terminal and desktop into toys:
 
-- **DigiTokenBar** — a Digimon that hatches and evolves from your Claude Code token usage.
-- **Hirasawa Yui Codex Pet** — an animated desktop pet (a *K-ON!* fan project) that mirrors my live agent status.
+- **[DigiTokenBar](https://github.com/Sicari1/digimon)** — a Digimon that hatches and evolves from your Claude Code token usage.
+- **Hirasawa Yui Codex Pet** — a hand-animated desktop pet (a *K-ON!* fan project) that mirrors my live agent status.
+- **K-ON! pilgrimage** — a personal *seichi-junrei* checklist I put together for my own trip.
 
 ---
 
