@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:kimsj7597@unist.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://scholar.google.com/scholar?q=Seongjin+Kim+UNIST"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="scholar"/></a>
+  <a href="https://scholar.google.com/citations?user=jt983zsAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="scholar"/></a>
   <img src="https://komarev.com/ghpvc/?username=Sicari1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
