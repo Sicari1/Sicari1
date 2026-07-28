@@ -12,7 +12,7 @@
 ### 👋 About
 
 - 🏦 **AI / Data Analytics Dept., BNK Kyongnam Bank** — I build in-house LLM agents and AI services, and analyze the bank's data for decision-making.
-- 🤖 I lean toward **agent development**: instead of writing SQL by hand, I build the NL2SQL agent that writes it. My goal is to keep growing as an **AI agent engineer**.
+- 🤖 I lean toward **agent development**, and my goal is to keep growing as an **AI agent engineer**.
 - 🎓 **B.S. & M.S. in Industrial Engineering, UNIST** (Data Analytics Lab).
 - 🧩 Interests: RAG, tool-calling, multi-agent harnesses, context engineering, local LLM inference.
 - Japanese — JLPT N2.
@@ -29,11 +29,9 @@
 
 ### 🛠️ What I build
 
-- **NL2SQL agent** — turns plain-language questions into warehouse SQL.
 - **Multi-agent harnesses** — Claude Code–style agents for internal dev and analysis tasks.
-- **Local LLM serving** — vLLM / Ollama on on-prem GPU.
+- **On-prem LLM serving** — deploying and running open models on the bank's closed-network GPU servers (vLLM / Ollama).
 - **Marketing-copy compliance checker** — RAG over regulation that flags risky wording and suggests rewrites.
-- **Multimodal internal tools** — image generation/editing, OCR, STT/TTS.
 - **Automated analysis reports** — recurring risk/insight reports generated end-to-end.
 
 ---
@@ -57,11 +55,7 @@
 
 ### 📜 Certifications
 
-**Earned**  
-![ADSP](https://img.shields.io/badge/ADSP-passed-2ea44f?style=flat-square) ![SQLD](https://img.shields.io/badge/SQLD-passed-2ea44f?style=flat-square)
-
-**In progress — 2026 H2**  
-![빅데이터분석기사](https://img.shields.io/badge/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EA%B8%B0%EC%82%AC-2026-9e9e9e?style=flat-square) ![투자자산운용사](https://img.shields.io/badge/%ED%88%AC%EC%9E%90%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%82%AC-2026-9e9e9e?style=flat-square) ![외환전문역 1종](https://img.shields.io/badge/%EC%99%B8%ED%99%98%EC%A0%84%EB%AC%B8%EC%97%AD%201%EC%A2%85-2026-9e9e9e?style=flat-square) ![외환전문역 2종](https://img.shields.io/badge/%EC%99%B8%ED%99%98%EC%A0%84%EB%AC%B8%EC%97%AD%202%EC%A2%85-2026-9e9e9e?style=flat-square) ![금융 AI 리터러시](https://img.shields.io/badge/%EA%B8%88%EC%9C%B5%20AI%20%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C-2026-9e9e9e?style=flat-square)
+![ADSP](https://img.shields.io/badge/ADSP-earned-2ea44f?style=flat-square) ![SQLD](https://img.shields.io/badge/SQLD-earned-2ea44f?style=flat-square)
 
 ---
 
@@ -69,16 +63,12 @@
 
 I like turning my terminal and desktop into toys:
 
-- **[DigiTokenBar](https://github.com/Sicari1/digimon)** — a Digimon that hatches and evolves from your Claude Code token usage.
 - **[Yui Codex Pet](https://github.com/Sicari1/yui-codex-pet)** — a hand-animated desktop pet overlay (a *K-ON!* fan project) that mirrors my live Claude Code agent status.
-- **K-ON! pilgrimage** — a personal *seichi-junrei* checklist I put together for my own trip.
+- **[DigiTokenBar](https://github.com/Sicari1/digimon)** — a Digimon that hatches and evolves from your Claude Code token usage.
 
 ---
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sicari1&show_icons=true&hide_border=true&include_all_commits=true" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sicari1&layout=compact&hide_border=true&langs_count=8" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com/?user=Sicari1&hide_border=true" alt="streak"/>
 
