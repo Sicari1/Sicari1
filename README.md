@@ -72,4 +72,8 @@ I like turning my terminal and desktop into toys:
 
 <img src="https://streak-stats.demolab.com/?user=Sicari1&hide_border=true" alt="streak"/>
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sicari1&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
+
 </div>
