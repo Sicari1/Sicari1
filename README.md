@@ -74,6 +74,6 @@ I like turning my terminal and desktop into toys:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sicari1&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sicari1&hide_border=true&area=true&hide_title=false&custom_title=Contribution%20Activity&color=0e75b6&line=0e75b6&point=0e75b6&bg_color=00000000" alt="activity graph"/>
 
 </div>
