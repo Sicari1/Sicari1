@@ -70,7 +70,7 @@ I like turning my terminal and desktop into toys:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Sicari1&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Sicari1&hide_border=true&background=00000000" alt="streak"/>
 
 <br/>
 
