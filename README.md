@@ -15,7 +15,7 @@
 - 🤖 I lean toward **agent development**, and my goal is to keep growing as an **AI agent engineer**.
 - 🎓 **B.S. & M.S. in Industrial Engineering, UNIST** (Data Analytics Lab).
 - 🧩 Interests: RAG, tool-calling, multi-agent harnesses, context engineering, local LLM inference.
-- Japanese — JLPT N2.
+- 🇯🇵 Japanese — **JLPT N2** (certified 2026).
 
 ---
 
@@ -55,7 +55,7 @@
 
 ### 📜 Certifications
 
-![ADSP](https://img.shields.io/badge/ADSP-earned-2ea44f?style=flat-square) ![SQLD](https://img.shields.io/badge/SQLD-earned-2ea44f?style=flat-square)
+![ADSP](https://img.shields.io/badge/ADSP-earned-2ea44f?style=flat-square) ![SQLD](https://img.shields.io/badge/SQLD-earned-2ea44f?style=flat-square) ![JLPT N2](https://img.shields.io/badge/JLPT%20N2-earned-2ea44f?style=flat-square)
 
 ---
 
