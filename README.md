@@ -11,7 +11,7 @@
 
 ### 👋 About
 
-- 🏦 **AI / Data Analytics Dept., BNK Kyongnam Bank** — I build in-house LLM agents and AI services, and analyze the bank's data for decision-making.
+- 🏦 **AI / Data Analytics Dept., BNK Kyongnam Bank** — I build LLM agents and AI services that cut down the manual work across the bank.
 - 🤖 I lean toward **agent development**, and my goal is to keep growing as an **AI agent engineer**.
 - 🎓 **B.S. & M.S. in Industrial Engineering, UNIST** (Data Analytics Lab).
 - 🧩 Interests: RAG, tool-calling, multi-agent harnesses, context engineering, local LLM inference.
